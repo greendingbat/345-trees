@@ -1,0 +1,72 @@
+is set 10 ten
+is dotFile
+is set 4 four
+is dotFile
+is set 43 forty-three
+is dotFile
+is set 42 forty-two
+is dotFile
+is set 18 eighteen
+is dotFile
+is set 64 sixty-four
+is dotFile
+is set 19 nineteen
+is dotFile
+is set 1 one
+is dotFile
+is set 2 two
+is dotFile
+is set 34 thirty-four
+is dotFile
+is set 92 ninety-two
+is dotFile
+is set 90 ninety
+is dotFile
+is set 11 eleven
+is dotFile
+is set 7 seven
+is dotFile
+is set 22 twenty-two
+is dotFile
+is set 13 thirteen
+is dotFile
+is set 35 thirty-five
+is dotFile
+is inOrder
+is remove 10
+is inOrder
+is dotFile
+is remove 11
+is inOrder
+is dotFile
+is set 19 NEW-NINETEEN
+is inOrder
+is dotFile
+is remove 34
+is inOrder
+is dotFile
+is remove 34
+is inOrder
+is dotFile
+is remove 34
+is remove 1
+is inOrder
+is dotFile
+is remove 7
+is inOrder
+is dotFile
+is set 9 nine
+is inOrder
+is dotFile
+is set 7 NEW-SEVEN
+is inOrder
+is dotFile
+is remove 13
+is inOrder
+is dotFile
+is set 100 one-hundred
+is inOrder
+is dotFile
+is set 98 ninety-eight
+is inOrder
+is dotFile

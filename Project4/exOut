@@ -1,0 +1,2 @@
+inOrder traversal of the tree 'is': 1->one(b) 2->two(b) 4->four(b) 7->seven(r) 10->ten(r) 11->eleven(r) 13->thirteen(b) 18->eighteen(r) 19->nineteen(b) 22->twenty-two(r) 34->thirty-four(b) 35->thirty-five(r) 42->forty-two(b) 43->forty-three(b) 64->sixty-four(b) 90->ninety(r) 92->ninety-two(b)
+--- TESTCASE TERMINATED ---

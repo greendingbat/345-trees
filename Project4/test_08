@@ -1,0 +1,29 @@
+is set 50 fifty
+	is dotFile
+	
+is set 25 twenty-five
+	is dotFile
+	
+is set 75 seventy-five
+	is inOrder
+	is dotFile
+	
+is set 60 sixty
+	is dotFile
+	
+is set 55 fifty-five
+	is dotFile
+	
+is set 80 eighty
+	is inOrder
+	is dotFile
+	
+is set 20 twenty
+	is dotFile
+	
+is set 23 twenty-three
+	is dotFile
+	
+is remove 75
+	is inOrder
+	is dotFile

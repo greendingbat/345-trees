@@ -1,0 +1,6 @@
+is set 10 ten
+is set 5 five
+is set 7 seven
+is dotFile
+is inOrder
+is postOrder

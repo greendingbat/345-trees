@@ -1,0 +1,3 @@
+inOrder traversal of the tree '234->red_black': 10->x(r) 15->x(b) 20->x(r) 25->x(r) 40->x(b) 50->x(b) 60->x(b) 75->x(r) 80->x(b) 100->x(r) 110->x(b) 125->x(b) 130->x(b) 150->x(b) 170->x(r) 180->x(b) 200->x(r) 225->x(b) 250->x(b) 275->x(b) 300->x(r) 325->x(r) 326->x(b) 327->x(r)
+postOrder traversal of the tree '234->red_black': 10->x(r) 20->x(r) 15->x(b) 40->x(b) 25->x(r) 60->x(b) 80->x(b) 75->x(r) 50->x(b) 110->x(b) 130->x(b) 125->x(b) 100->x(r) 170->x(r) 180->x(b) 225->x(b) 200->x(r) 275->x(b) 325->x(r) 327->x(r) 326->x(b) 300->x(r) 250->x(b) 150->x(b)
+--- TESTCASE TERMINATED ---
